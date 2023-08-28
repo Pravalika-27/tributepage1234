@@ -1,0 +1,83 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <style>         
+        body {  
+            background-color: #f0f5f3;  
+            margin: 20%;  
+        }  
+        #title {  
+            text-align: center;  
+            text-shadow: 5px 5px 10px white;  
+            font-size: 8vh;  
+        }  
+        img {  
+            display: inline-block;  
+            width: 100%;  
+        }     
+        #caption {  
+            font-size: 19px;  
+            font-family:sans-serif;  
+            color: black;  
+        }  
+        div#tribute-data {  
+            background-color: rgb(46, 139, 87, 0.25);  
+            box-shadow: 20px 20px 20px #96c996;  
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+            padding: 25px 25px;  
+            margin: 11px;  
+            margin-top: 50px;  
+        }  
+        h1.title-vk {  
+            font-size: 35px;  
+            color: white;  
+            text-align: center;  
+            text-shadow: 5px 6px 10px black;  
+        }     
+    </style>  
+</head>  
+<body>  
+    <main id="main">  
+        <!-- Title of the web page The Cat's Meow -->  
+        <h1 id="title">  
+            Love is four legged word 
+        </h1>  
+        <div id="img">  
+            <!--Image of the The Cat-->  
+            <img src="https://wallpapercave.com/wp/UzAi5VX.jpg"id="image"  
+                alt="Cat">  
+            <small id="caption">
+                A cat has the ability to both calm your nervous system and provide an immediate outlet for fun and play. 
+            </small>  
+        </div>  
+        <div id="tribute-data">  
+            <h1 class="title-vk">  
+                About The evolution of cats and facts about cats!
+            </h1>  
+<p>  
+                ☛ Cats are domestic animals. They are small in size. Their bodies are covered with smooth fur. They have two mesmerizing eyes, two highly sensitive ears, four legs, whiskers under their nose and a long tail.<br><br>  
+                ☛ The pantherlike ancestor to the cat family first appeared in Southeast Asia, about 10.8 million years ago. Prior to the use of DNA studies in cats, it was difficult to trace the Felidae family history, because feline fossils are rare, and difficult to tell apart.<br><br>  
+                ☛ The great roaring cats (lions, leopards, jaguars, tigers) were the first to branch off, about 6.4 million years ago. The ancestor of modern domestic cats was the last to appear, about 3.4 million years ago. A small wildcat species was first domesticated in the Near East 8,000 to 10,000 years ago.<br><br>  
+                ☛ As sea levels rose and fell, cats migrated to new continents and developed new species. It is estimated that cats migrated to North America from Asia across the Bering land bridge connecting Siberia and Alaska about 9 million years ago. Later, several American cat lineages returned to Asia. With each migration, the cats evolved further and changed into an ever-growing array of sizes and types of felines. Based on the DNA and fossil evidence, the Johnnson-O’Brien team was able to demonstrate a series of at least 10 intercontinental migrations of cats over the past 10 million years, in which cat were able to colonize the world. 
+                <br><br> 
+  ☛ Scholars long believed that the ancient Egyptians were the first to keep cats as pets, starting around 3,600 years ago. But genetic and archaeological discoveries made over the past 15 years have revised this scenario—and have generated fresh insights into both the ancestry of the domestic cat and how its relationship with humans evolve
+                <br><br>
+  ☛In 2000 one of us (Driscoll) set out to tackle the question by assembling DNA samples from some 979 wildcats and domestic cats in southern Africa, Azerbaijan, Kazakhstan, Mongolia and the Middle East. Because wildcats typically defend a single territory for life, Driscoll expected that the genetic composition of wildcat groups would vary across their geographical ranges but remain stable over time, as is observed in many other felid species. If regional indigenous groups of these animals could be distinguished from one another on the basis of their DNA and if the DNA of domestic cats more closely resembled that of one of the wildcat populations, then he would have clear evidence for where domestication began.
+                <br><br> ☛  Purring means a cat is content.
+                <br><br> ☛ The smallest cat breed is a Singapura.
+                <br><br> ☛ One of the largest domestic cat breeds is a Maine Coon.
+                <br><br> ☛ 1 year of a cats life equals to 15 years of a humans live.
+                <br><br> ☛  Cats sleep for around 13 to 16 hours a day (70% of their life).
+                <br><br> ☛They have a total of 18 toes.
+                <br><br> ☛ There are over 500 million pet cats!
+                <br><br> ☛ Cats can jump up to 6 times their height.  
+                <br><br>   
+            </p>  
+        </div>  
+        <br>  
+    </main>  
+</body>  
+</html>
+  
+
+  
